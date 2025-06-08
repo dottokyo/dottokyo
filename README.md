@@ -11,7 +11,6 @@ dottokyo@github:~$ cat about.txt
 writing code. trying to build tools. learning.
 </p>
 </div>
----
 
 ## ✦ tech stack
 
