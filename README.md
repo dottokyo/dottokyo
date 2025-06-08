@@ -13,13 +13,13 @@ writing code. trying to build tools. learning.
 </div>
 ---
 
-## 🧰 tech stack
+## ✦ tech stack
 
 python
 
 ---
 
-## 📁 projects
+## ✦ projects
 
 | project         | description                         | link                     |
 |-----------------|-------------------------------------|--------------------------|
@@ -28,7 +28,7 @@ python
 
 ---
 
-## 📡 connect with me
+## ✦ connect with me
 
 <a href="https://x.com/devtoky0">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
