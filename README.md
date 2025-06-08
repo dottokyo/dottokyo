@@ -2,14 +2,14 @@
 
 <img src="banner.jpg" width="1920" style="border-radius: 100%;" alt="dottokyo avatar"/>
 
-dottokyo@github:~$ whoami
 
-python developer | rust developer
+<h1 align="center">.tokyo ⚫️</h1>
 
+<p align="center">
 dottokyo@github:~$ cat about.txt
 
 writing code. trying to build tools. learning.
-
+</p>
 
 ---
 
