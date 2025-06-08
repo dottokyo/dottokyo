@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="banner.png" width="140" style="border-radius: 50%;" alt="realest avatar"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=realest+%3E_python+developer;building+automations+%7C+learning+in+public" alt="Typing SVG" />
+<img src="banner.png" width="140" style="border-radius: 50%;" alt="dottokyo avatar"/>
 
 </div>
-
 ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=dottokyo+%3E_python+developer;" alt="Typing SVG" />
 
 dottokyo@github:~$ whoami
 
