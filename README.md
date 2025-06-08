@@ -1,53 +1,50 @@
-<h1 align="center">.tokyo ⚫️</h1>
-
-<p align="center">
-  nothing, nowhere.
-</p>
-
 <div align="center">
 
-<a href="https://twitter.com/devtoky0">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://github.com/dottokyo?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="banner.png" width="140" style="border-radius: 50%;" alt="realest avatar"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=realest+%3E_python+developer;building+automations+%7C+learning+in+public" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧭 about me
+dottokyo@github:~$ whoami
 
-- 🐍 learning python, rust
-- ⚙️ beginner
+python developer | rust developer
+
+dottokyo@github:~$ cat about.txt
+
+writing code. trying to build tools. learning.
+
 
 ---
 
 ## 🧰 tech stack
-python • rust
+
+Python • FastAPI • AsyncIO • Git • Markdown
 
 ---
 
-## 📂 projects
+## 📁 Projects
 
 | Project         | Description                         | Link                     |
 |-----------------|-------------------------------------|--------------------------|
-| `solsight`      | solana ai txns and wallet analyzer  | [github](#)              |
+| `solsight`      | tba                                 | tba                      |
 
 
 ---
 
 ## 📡 connect with me
 
-- 🐦 twitter: [@devtoky0](https://twitter.com/devtoky0)
-- 🌐 tba
-- 💬 always open to ideas, projects, or collabs
+<a href="https://x.com/devtoky0">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+</a>
+
 
 ---
 
-<div align="left">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dottokyo&show_icons=true&theme=graywhite&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dottokyo&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&text_color=000000" width="60%" />
 
 </div>
