@@ -48,6 +48,6 @@ python • rust
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=.tokyo&show_icons=true&theme=graywhite&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dottokyo&show_icons=true&theme=graywhite&hide_border=true" width="60%" />
 
 </div>
