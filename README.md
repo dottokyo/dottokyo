@@ -6,9 +6,9 @@
 <h1 align="center">.tokyo ⚫️</h1>
 
 <p align="center">
-dottokyo@github:~$ cat about.txt
+```dottokyo@github:~$ cat about.txt
 
-writing code. trying to build tools. learning.
+writing code. trying to build tools. learning.```
 </p>
 </div>
 
