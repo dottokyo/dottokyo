@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 tech Stack
+## 🧰 tech stack
 python • rust
 
 ---
@@ -33,9 +33,8 @@ python • rust
 
 | Project         | Description                         | Link                     |
 |-----------------|-------------------------------------|--------------------------|
-| `auto-scripts`  | Small tools for repetitive tasks    | [GitHub](#)              |
-| `api-hub`       | Async FastAPI aggregator            | [GitHub](#)              |
-| `ai-notes`      | AI-powered note workflow            | [GitHub](#)              |
+| `solsight`      | solana ai txns and wallet analyzer  | [github](#)              |
+
 
 ---
 
@@ -47,8 +46,8 @@ python • rust
 
 ---
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=realest&show_icons=true&theme=graywhite&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=.tokyo&show_icons=true&theme=graywhite&hide_border=true" width="60%" />
 
 </div>
