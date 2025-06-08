@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="1920" style="border-radius: 50%;" alt="gif"/>
+<img src="banner.jpg" width="1920" style="border-radius: 100%;" alt="jpg"/>
 
 
 <h1 align="center">.tokyo ⚫️</h1>
