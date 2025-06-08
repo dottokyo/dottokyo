@@ -29,15 +29,11 @@ writing code. trying to build tools. learning.
 
 python
 
----
-
 ## ✦ projects
 
 | project         | description                         | link                     |
 |-----------------|-------------------------------------|--------------------------|
 | `solsight`      | solana ai wallet/txns analyzer      | tba                      |
-
----
 
 <div align="center">
 
