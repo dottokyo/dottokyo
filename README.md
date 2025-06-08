@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" alt="dottokyo avatar"/>
+<img src="banner.gif" width="1920" style="border-radius: 50%;" alt="gif"/>
 
 
 <h1 align="center">.tokyo ⚫️</h1>
