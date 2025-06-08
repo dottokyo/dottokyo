@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="140" style="border-radius: 50%;" alt="dottokyo avatar"/>
+<img src="banner.jpg" width="140" style="border-radius: 50%;" alt="dottokyo avatar"/>
 
 </div>
 ---
