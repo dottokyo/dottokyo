@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" width="1920" style="border-radius: 100%;" alt="dottokyo avatar"/>
+<img src="banner.gif" width="1920" style="border-radius: 100%;" alt="dottokyo avatar"/>
 
 
 <h1 align="center">.tokyo ⚫️</h1>
@@ -22,21 +22,5 @@ writing code. trying to build tools. learning.
 <a href="https://github.com/realest?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
-## ✦ tech stack
-
-python
-
-## ✦ projects
-
-| project         | description                         | link                     |
-|-----------------|-------------------------------------|--------------------------|
-| `solsight`      | solana ai wallet/txns analyzer      | tba                      |
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dottokyo&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&text_color=000000" width="60%" />
 
 </div>
