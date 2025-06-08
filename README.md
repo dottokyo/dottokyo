@@ -3,7 +3,6 @@
 <img src="banner.jpg" width="1920" style="border-radius: 100%;" alt="dottokyo avatar"/>
 
 </div>
----
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=dottokyo+%3E_python+developer;" alt="Typing SVG" />
 </div>
