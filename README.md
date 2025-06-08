@@ -12,6 +12,19 @@ writing code. trying to build tools. learning.
 </p>
 </div>
 
+<div align="center">
+
+## ✦ connect with me
+
+<a href="https://twitter.com/devtoky0">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/realest?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 ## ✦ tech stack
 
 python
@@ -23,16 +36,6 @@ python
 | project         | description                         | link                     |
 |-----------------|-------------------------------------|--------------------------|
 | `solsight`      | solana ai wallet/txns analyzer      | tba                      |
-
-
----
-
-## ✦ connect with me
-
-<a href="https://x.com/devtoky0">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</a>
-
 
 ---
 
