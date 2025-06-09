@@ -8,7 +8,7 @@
 <p align="center">
 dottokyo@github:~$ cat about.txt
 
-writing code. trying to build tools. learning.
+practice like you know nothing.
 </p>
 </div>
 
