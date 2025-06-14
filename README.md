@@ -4,12 +4,6 @@
 
 
 <h1 align="center">.tokyo ⚫️</h1>
-
-<p align="center">
-dottokyo@github:~$ cat about.txt
-
-practice like you know nothing.
-</p>
 </div>
 
 <div align="center">
