@@ -4,9 +4,6 @@
 
 
 <h1 align="center">.tokyo ⚫️</h1>
-</div>
-
-<div align="center">
 
 ## ✦ connect with me
 
