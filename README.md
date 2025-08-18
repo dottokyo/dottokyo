@@ -10,11 +10,8 @@
 <a href="https://twitter.com/devtoky0">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://t.me/illegalexperience">
+<a href="https://t.me/xwqefwexqxzdxfgsdfg">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://github.com/dottokyo?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
